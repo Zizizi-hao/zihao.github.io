@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zihao Zhang - Homepage"
+title                    : "Zihao Zhang-Homepage"
 title_separator          : "-"
 name                     : &name "Zihao Zhang"
 description              : &description "Hi! I am Zihao Zhang, a Ph.D. student in Southeast University, this website is about me!"
@@ -22,7 +22,7 @@ repository               : "Zizizi-hao/zizizi-hao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myphoto.jpg"
   name             : "Zihao Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Southeast University"
