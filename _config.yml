@@ -13,7 +13,7 @@ title                    : "Zihao Zhang (张子豪)"
 title_separator          : "-"
 name                     : &name "Zihao Zhang"
 description              : &description "Hi! I am Zihao Zhang, a Ph.D. student in Southeast University, this website is about me!"
-url                      : https://zizizi-hao.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://zizizi-hao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zizizi-hao/zizizi-hao.github.io"
 
@@ -23,13 +23,13 @@ repository               : "Zizizi-hao/zizizi-hao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zihao Zhang(张子豪)"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "zihao_zhang@seu.edu.cn" 
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
